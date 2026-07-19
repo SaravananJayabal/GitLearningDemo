@@ -5,5 +5,7 @@ public class SearchGit {
         System.out.println("VerifyGit");
         System.out.println("Testers Code");
         System.out.println("Test Squah Commit");
+        System.out.println("restore");
+        System.out.println("stage");
     }
 }
